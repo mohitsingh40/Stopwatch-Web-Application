@@ -51,7 +51,3 @@ No server, database, or additional dependencies are required.
 2. Select **Pause** to temporarily stop the timer.
 3. Select the lap button while the stopwatch is running to record a lap.
 4. Select **Reset** to clear the timer and recorded laps.
-
-## Repository
-
-[Stopwatch-Web-Application on GitHub](https://github.com/mohitsingh40/Stopwatch-Web-Application)
